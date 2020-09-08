@@ -8,7 +8,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "ar",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -78,7 +78,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://deltasoft01.tafsiracademy.com/",
+    "siteurl": "https://tafsiracademy.com/",
     "sitename": "أكاديمية تفسير",
     "multisitesdisplay": "",
     "onlyallowlistedsites": false,
